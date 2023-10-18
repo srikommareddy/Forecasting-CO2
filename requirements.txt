@@ -1,6 +1,5 @@
 pandas
 numpy
-sklearn
 streamlit
 matplotlib
 statsmodels
