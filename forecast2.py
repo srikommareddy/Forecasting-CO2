@@ -25,7 +25,7 @@ co2data1 = co2data[70:]
 #sns.lineplot(x='Year', y= 'CO2', data = co2data1)
 
 # loading the trained model
-pickle_in = open('model_arima_final.pkl', 'rb') 
+pickle_in = open('model_arima_712.pkl', 'rb') 
 model_arima = pickle.load(pickle_in)
 
 pickle_in = open('HW_model.pkl', 'rb') 
